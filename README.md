@@ -13,13 +13,13 @@ A [Clawdbot](https://github.com/clawdbot/clawdbot) plugin that replaces the defa
 ## Installation
 
 ```bash
-clawdbot plugins install github:koptev/clawdbot-memos-memory
+clawdbot plugins install github:anatolykoptev/clawdbot-memos-memory
 ```
 
 Or with npm:
 
 ```bash
-clawdbot plugins install @koptev/clawdbot-memos-memory
+clawdbot plugins install @anatolykoptev/clawdbot-memos-memory
 ```
 
 ## Configuration
