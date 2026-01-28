@@ -80,15 +80,6 @@ Retrieve all memories with optional filtering.
 - PostgreSQL with pgvector extension
 - Embedding service (for vector generation)
 
-## Docker Setup
-
-See [krolik-server](https://github.com/koptev/krolik-server) for a complete Docker Compose setup with:
-- Clawdbot
-- MemOS API
-- PostgreSQL + pgvector
-- Embedding service
-- Qdrant (optional)
-
 ## License
 
 MIT
