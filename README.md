@@ -89,4 +89,4 @@ Version 1.0.1, not published to npm; install from GitHub.
 
 ## License
 
-MIT, see [LICENSE](LICENSE).
+Apache-2.0, see [LICENSE](LICENSE).
